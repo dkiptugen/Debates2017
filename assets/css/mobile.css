@@ -1,0 +1,175 @@
+body{ background:#e5e5e5; padding: 0 ; margin: 0; font-size: 14px; line-height: 20px; font-weight: 300; color:#252525; font-family: 'Montserrat Alternates', sans-serif;}
+h1,h2,h3,h4,h5{ padding: 0; margin: 0; line-height:18px;}
+.clearboth{ clear: both;}
+
+
+.header{ height: 60px; background: #141414; padding: 5px 0; }
+.black{background: #fff; margin:0 10px;}
+.zero{ margin-left: 0 !important; }
+h1{ font-size: 18px; font-weight: 800; margin:8px; color: #fff; }
+h2{ font-size: 25px; font-weight: 600; margin: 0 0 10px 0; color: #000; }
+h3{ font-size: 10px; font-weight: 300; }
+h4{ font-size: 24px; color: #fff; }
+h5{ font-size: 12px; color: #fff; font-weight: 300; padding:4px 0; }
+
+.banner-wrapper{background:#141414; color: #fff; margin: 10px 0 0 0; font-weight: 200;}
+.banner-title{  background:#141414; padding:10px; margin: 20px 0 0 0;}
+.banner-title h1{ font-size: 25px; font-weight: 600; color: #fff; margin: 10px 0; line-height: 25px; }
+.banner-title h2{ font-size: 30px; font-weight: 300; text-transform: capitalize;  color: #fff; margin: 0 0 10px 0; }
+.banner-title h3{ font-size: 15px; font-weight: 300; color: #fff; margin: 0 0 10px 0; font-family: 'Montserrat', sans-serif;}
+
+.candidate-wrapper{ background: #fff; margin: 20px auto; }
+ul.candidates { padding: 0; margin: 0; }
+ul.candidates li{ float: left; padding:20px 35px; list-style: none; border-right: #e5e5e5 solid 1px;  border-top: #e5e5e5 solid 1px; text-align: center;}
+ul.candidates li img{ float: left;  border: #fff solid 2px; }
+ul.candidates li h1{color: #000; font-size: 16px; margin: 20px 0 0 0; font-weight: 400;}
+ul.candidates li h2{ color: #000; font-size: 12px; font-weight: 300;}
+
+ul.candidates li:last-child { border-right:0px; }
+.top-alignment{ margin: 20px 0 0 0;}
+
+
+.news-section h1{color: #252525 ; font-weight: 400; font-size: 20px;}
+.news-section h2{color: #252525 ; font-weight: 300; font-size: 12px; margin: 0 0 0 8px;}
+.news-section h3{color: #252525 ; font-weight: 600; font-size: 22px; margin: 0 0 10px 0;}
+
+
+.nav > li > a:hover, .nav > li > a:focus { background:none;}
+.news-title h5{ color: #000; font-size: 25px; font-weight: 700; line-height: 25px; }
+.news-title { padding: 10px; font-weight: 300; }
+
+ul.news-list{ padding: 0; margin: 0;}
+ul.news-list li:last-child { border-bottom:0px; }
+ul.news-list li{ list-style: none; padding: 10px 2px; border-bottom:#ccc solid 1px;}
+.news-list h3 a{ font-size: 18px; font-weight: 500; color: #252525;}
+.news-list h3 a:hover{ color: #f00; text-decoration: none;}
+.news-list h4{ font-size: 12px; color:#252525; font-weight: 300; }
+ul.news-list li.citizen{ background: #fff; border-bottom: #fb7e12 solid 4px; }
+ul.news-list li.standard-digital{  border-bottom: #2665B0 solid 5px; }
+ul.news-list li.ntv{ background: #fff; border-bottom: #3d3d3d solid 4px;}
+ul.news-list li.k24{ background: #fff; border-bottom: #fb7f1c solid 4px;}
+
+
+
+ul.nav{ padding: 0; margin:8px 0 0 0; }
+ul.nav li a{ color: #fff;}
+ul.nav li{ float:left; padding: 12px; font-weight: 300; font-size: 15px; text-transform: uppercase; list-style: none;}
+ul.nav li.active a{ font-weight: 800; color: #ccc;}
+ul.nav li.livestream a{ font-weight: 800; color: #f00;}
+
+.social{padding:10px 0 0 0; }
+.social ul{ padding: 0; margin: 0;}
+.social ul li{ list-style: none; float: left; margin: 0 5px 0 0;}
+
+.wrapper{ margin:20px 0; background:#F5F6F6; border-radius:2px; }
+.wrapper2{ margin:10px; border: #ccc solid 1px; background:#FFF; border-radius:2px; }
+.titles{padding: 10px; font-size: 16px; border-bottom: #ccc solid 1px; background: #fff;}
+.candidates{ padding:10px;}
+.white{ padding: 10px; background: #fff; margin: 20px auto; }
+.white-2{ padding: 10px; margin: 20px 0 0 0; background: #fff; }
+
+
+.rightside{border-right:#ccc solid 1px; }
+.poll-section{ padding:10px; }
+.candidate-1{ background:#15AA55; width:45%;  padding: 5px; margin: 10px 0; border: #ccc solid 1px; float: left; }
+.candidate-2{ background:#15AA55; width:44%;  padding: 5px; margin: 10px 0; border: #ccc solid 1px; float: left; }
+
+.candidate-1 h1{ color: #fff; float: left; font-size: 34px;}
+.candidate-2 h1{ color: #fff; float: left; font-size: 34px;}
+.left-0{ margin-left: 0 !important;}
+.right-15{ margin-left: 15px !important;}
+
+.date{padding:10px 0 0 0;background:#ED1C24; }
+.debate-info{padding:10px 0 0 0;}
+.date h1{font-size:30px; font-weight: 700; color: #fff; text-align: center;}
+.date h2{font-size:12px; font-weight: 300; color: #fff; text-align: center;}
+.debate-info h3{font-size:17px; font-weight: 500; color: #000;}
+.debate-info h4{font-size:14px; font-weight: 300; color: #000;}
+
+.candidate-1 h2{ font-size: 12px; font-weight: 300; line-height: 15px; margin: 0 !important; }
+.candidate-2 h2{ font-size: 12px; font-weight: 300; line-height: 15px; margin: 0 !important; }
+
+h2.ktn-title{ background: #1772b2; color:#fff; padding:10px 5px; margin: 10px 0 0 0;}
+h2.citizen-title{ background: #fb7e12; color:#fff; padding:10px 5px; margin: 10px 0 0 0;}
+h2.ntv-title{ background: #3d3d3d; color:#fff; padding:10px 5px; margin: 10px 0 0 0;}
+h2.k24-title{ background: #fb7e12; color:#fff; padding:10px 5px; margin: 10px 0 0 0;}
+ 
+ul.voting li{  width:100%; list-style: none;}
+input, button, select, textarea { font-family: 'Montserrat Alternates', sans-serif !important; }
+.livestream{ padding: 10px 0 0 0;}
+.ad-wrapper{ background: #fff; padding: 5px; margin: 10px 0 0 0; }
+.ad-wrapper h1{ text-align: center; color: #666; text-transform: uppercase; font-size: 12px; font-weight: 300;}
+
+
+.related-stories-standard {border-top: #2665B0 solid 6px; margin: 0 0 20px 0; font-size: 18px;}
+.related-stories-citizen {border-top: #fb7e12 solid 6px; margin: 0 0 20px 0; font-size: 18px;}
+.related-stories-ntv {border-top: #3d3d3d solid 6px; margin: 0 0 20px 0; font-size: 18px;}
+
+
+
+.moderators-title,.candidates-title{padding:10px; text-align: center; }
+.moderators-title h2,.candidates-title h2{font-size:22px; font-weight: 600; }
+.debate-news-title{ padding:0;}
+
+.about-us{ padding: 10px; font-weight: 300;}
+.zero-left{ margin-left: 10px;}
+.stories{ padding: 0 0 10px 0; }
+.footer{ margin: 20px 0 0 0;}
+
+ul.moderators { padding: 0; margin: 0; }
+ul.moderators li{ background:#e5e5e5; padding:5px; list-style: none; border-top: #ccc solid 1px;}
+ul.moderators li img{ float: left; margin: 0 10px 0 0; border: #ccc solid 2px; }
+ul.moderators li h1{color: #000; font-size: 16px; margin: 20px 0 0 0; font-weight: 400;}
+ul.moderators li h2{ color: #000; font-size: 12px; font-weight: 300;}
+
+
+
+ul.debate-schedule{ padding: 0; margin: 0;}
+ul.debate-schedule li{ border-left:#ED1C24 solid 5px; background: #f2f2f2; padding: 10px 0; list-style: none; margin:10px;}
+
+
+.footer{border-top:#ccc solid 1px; padding: 5px; font-size: 10px; text-align: center; background:#fff;}
+
+
+
+
+
+.pds-box{width: 100% !important;}
+.pds-answer{width: 100% !important;}
+.pds-textfield{width:80% !important;}
+.pds-answer-input{width: auto !important;}
+.pds-answer-group {padding: 5px 0 !important;}
+.pds-input-label,.pds-other-label { width: 30px !important; }
+
+.footer{border-top:#ccc solid 1px; padding: 5px; font-size: 10px; text-align: center; background:#fff;}
+/*
+ul.news{padding: 0;}
+ul.news li.newsfeed{list-style: none;margin: 10px 0;}
+ul.news li.newsfeed img{width: 161.804697157px; height: 100px;}
+ul.side{padding:0;}
+ul.side li{ list-style: none; border-top:solid rgb(75,75,75) 2px; margin: 0; }
+ul.side li h3 {font-size:14px; letter-spacing: 1px; margin: 0; padding: 0; font-weight:bold;}
+ul.side li a{text-decoration: none; color: black; }
+
+.sidebar h2 {color: blue; font-weight: bolder;}
+*/
+.OverlayIcon {
+    position: absolute;
+    top: 40px;
+    left: 65px;
+    z-index: 10000;
+}
+.play-icon{
+    cursor: pointer;
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -170%);
+}
+
+svg:hover #play-svg{
+  fill: #CC181E;
+}
+.video{
+	position: relative;
+}
